@@ -4,7 +4,7 @@
 #### Have all your technical doubts and queries solved in one place!
 ![Banner](https://github.com/MuzzammilShah/Hammedz-Stack-Overflow/blob/f1426c20b36c299d08e44aa6e949363e4bed8641/SnapShots/stackoverflow-tech-hyme.jpg)
 
-I made this project as an Experiment while learning MERN Stack. 
+I made this project as an Experiment while learning MERN Stack in Web Development. 
 
 # 📖 Here are some snapshots of the design of the website!
 
